@@ -1,0 +1,7 @@
+anonymous@
+12345
+root
+admin
+password
+123456
+1234
